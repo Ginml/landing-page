@@ -170,3 +170,9 @@ img {
     border-color: #E5E7EB;
     color: #E5E7EB;
   }
+
+  .footer {
+    background-color: #1F2937;
+    padding: 20px;
+    text-align: center;
+  }
