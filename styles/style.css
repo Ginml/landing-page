@@ -120,6 +120,7 @@ img {
     background-color: #E5E7EB;
     padding: 100px;
     margin-top: 200px;
+    margin-bottom: 100px;
   }
 
   .quote {
@@ -137,4 +138,35 @@ img {
     font-weight: bold;
     font-size: 24px;
     padding-left: 550px;
+  }
+
+  .contact-container {
+    background-color: #3882F6;
+    color: #E5E7EB;
+    font-size: 16px;
+    margin: auto;
+    border-radius: 7px;
+    width: 1100px;
+    height: 130px;
+    margin-bottom: 100px;
+  }
+
+  .contact-space {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
+    width: 90%;
+    margin: auto;
+  }
+
+  .contact-header {
+    font-weight: bold;
+    font-size: 25px;
+  }
+
+  .sign-up-buttom {  
+    background-color:#3882F6;
+    border-color: #E5E7EB;
+    color: #E5E7EB;
   }
